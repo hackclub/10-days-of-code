@@ -36,11 +36,13 @@ This is an example of a day-in-a-life during 10 Days of Code.
 
 ## 🗣️ Testimonials
 
-“I loved having the time to work on a project that was on my todo list for months. I’m so happy to have participated!” - Malycia, Seattle, WA
+“I loved having the time to work on a project that was on my todo list for months. I’m so happy to have participated!” - Malycia, 17, Seattle, WA
 
-“10 Days of Code was a great opportunity to learn more about tech and it has grown my passion for coding” - Sophia, Boston, MA
+“10 Days of Code was a great opportunity to learn more about tech and it has grown my passion for coding” - Sophia, 16, Boston, MA
 
-“It was an incredible chance to learn from Hack Club engineers and  a chance for me to build my web dev skills through amazing workshops led by Hack Club engineers like Max and Graham. - Reva, Bay Area, CA
+“It was an incredible chance to learn from Hack Club engineers and  a chance for me to build my web dev skills through amazing workshops led by Hack Club engineers like Max and Graham. - Reva, 18, Bay Area, CA
+
+"10 Days of Code gave me a really fun opportunity to learn new things and grow my knowledge of coding." - Maz, Vermont
 
 ## 📷 Photos
 
