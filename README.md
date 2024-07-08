@@ -1,8 +1,17 @@
 # 10 Days Of Code
 
 ## 👩‍💻 What is 10 Days of Code?
+_Is there a project you’ve been wanting to make?
+Do you struggle to find time to learn how to code?_
+
+10 Days of Code is a gift to Hack Clubbers to level up their coding skills!
+
+This summer, Hack Club invited 10 Hack Clubbers to spend two weeks at Hack Club HQ in Shelburne, VT building projects without the expectations of school or work.
+
+The goal is for Hack Clubbers to have a finished, shipped project by the end of the 10 Days of Code, while learning more about coding and the developmental process. 
 
 ## 📅 The Schedule
+This is an example of a day-in-a-life during 10 Days of Code.
 
 | Time | Activity                                                                 |
 |-----|-------------------------------------------------------------------------|
