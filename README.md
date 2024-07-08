@@ -43,3 +43,5 @@ This is an example of a day-in-a-life during 10 Days of Code.
 “It was an incredible chance to learn from Hack Club engineers and  a chance for me to build my web dev skills through amazing workshops led by Hack Club engineers like Max and Graham. - Reva, Bay Area, CA
 
 ## 📷 Photos
+
+![image not loading](https://cloud-eic4a2do1-hack-club-bot.vercel.app/0pxl_20240626_184338302.mp.jpg)
