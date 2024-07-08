@@ -24,3 +24,5 @@ This is an example of a day-in-a-life during 10 Days of Code.
 | 3:30 PM  | End of the day |
 
 ## ⭐ Past Projects
+
+## 📷 Photos
