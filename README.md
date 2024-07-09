@@ -47,6 +47,8 @@ This is an example of a day-in-a-life during 10 Days of Code.
 
 “Though I was lost at first and learned a little bit of everything, 10 Days of Code is a powerful resource to take advantage of, especially when diving into how to take vanilla HTML and CSS to the next level.” - Phaedra, 17, Boston
 
+"10 Days of Code was probably the highlight of my summer. It was really fun to make a cool project and meet new people!" - Bright, 15, Orange County
+
 ## 📷 Photos
 
 ![image not loading](https://cloud-eic4a2do1-hack-club-bot.vercel.app/0pxl_20240626_184338302.mp.jpg)
