@@ -54,3 +54,4 @@ This is an example of a day-in-a-life during 10 Days of Code.
 ## 📷 Photos
 
 ![image not loading](https://cloud-eic4a2do1-hack-club-bot.vercel.app/0pxl_20240626_184338302.mp.jpg)
+![image not loading](https://cloud-5ylr745kj-hack-club-bot.vercel.app/0img_3767.jpg)
