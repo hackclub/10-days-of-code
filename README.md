@@ -49,6 +49,8 @@ This is an example of a day-in-a-life during 10 Days of Code.
 
 "10 Days of Code was probably the highlight of my summer. It was really fun to make a cool project and meet new people!" - Bright, 15, Orange County
 
+"10 Days of Code was an incredible experience because I not only made new friends and had such great connections/conversations, but I was also able to push myself and learn something completely new in code!" - Savina, 16, San Diego
+
 ## 📷 Photos
 
 ![image not loading](https://cloud-eic4a2do1-hack-club-bot.vercel.app/0pxl_20240626_184338302.mp.jpg)
