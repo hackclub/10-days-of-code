@@ -41,7 +41,7 @@ This is an example of a day-in-a-life during 10 Days of Code.
 
 “10 Days of Code was a great opportunity to learn more about tech and it has grown my passion for coding. Getting advice from people at HQ gave me insight to their skills and helped me learn Airtable and Google Maps API.” - Sophia, 16, Boston
 
-“It was an incredible chance to learn from Hack Club engineers and  a chance for me to build my web dev skills through amazing workshops led by Hack Club engineers like Max and Graham. - Reva, 18, Bay Area
+“It was an incredible chance to build web dev skills through amazing workshops led by Hack Club engineers like Max and Graham. In addition to leveling up my web dev with Tailwind and React, I also learned essential skills like using the command line and APIs." - Reva, 18, Bay Area
 
 "10 days of code was a really fun chance to learn and grow my knowledge of coding. It gave me enough time to build my first ever website in Tailwind for my business." - Maz, 13, Charlotte
 
